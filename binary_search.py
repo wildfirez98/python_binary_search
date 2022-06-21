@@ -1,6 +1,3 @@
-from cgi import test
-
-
 def binary_search(data, el):
     first = 0
     last = len(data)-1 # Note that last = len(data)-1 because indexing starts at 0.
